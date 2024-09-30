@@ -24,3 +24,4 @@
 
 ### ToDo:
 - Remove old log entries, when there are too many of those it will get stuck (but the coors are sill saved to log.txt)
+- Add an option to delete POIs
