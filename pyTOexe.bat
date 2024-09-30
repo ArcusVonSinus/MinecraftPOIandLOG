@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --windowed --add-data "C:\Users\arcus\AppData\Local\Programs\Python\Python312\Lib\site-packages\customtkinter;customtkinter/"  "MinecraftBackgoround.py" --icon icon.ico
